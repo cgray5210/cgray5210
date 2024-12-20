@@ -58,6 +58,6 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 </div>
 
 ## Projects
-- Security Audit Lab
+- <a href="https://github.com/cgray5210/Security-Audit-Lab/blob/main/README.md">Security Audit Lab</a>
 - Detection Lab
 - SOC Automation Project
