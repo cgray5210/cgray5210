@@ -21,7 +21,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | DNS and ICMP Traffic Analysis          | <a href="https://github.com/cgray5210/DNS-and-ICMP-Traffic-Analysis-Lab">DNS and ICMP Traffic Analysis Lab</a>|
 | Web Server Attack Analysis         | <a href="https://github.com/cgray5210/Analyze-Network-Attacks/blob/main/README.md">Web Server Attack Analysis Lab</a>|
 | Network Hardening Analysis      | <a href="https://github.com/cgray5210/Network-Hardening-Analysis/blob/main/README.md">Network Hardening Analysis Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Knowledge of NIST CSF Concepts                  | <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -61,3 +61,4 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 - <a href="https://github.com/cgray5210/DNS-and-ICMP-Traffic-Analysis-Lab">DNS and ICMP Traffic Analysis Lab</a>
 - <a href="https://github.com/cgray5210/Analyze-Network-Attacks/blob/main/README.md">Web Server Attack Analysis Lab</a>
 - <a href="https://github.com/cgray5210/Network-Hardening-Analysis/blob/main/README.md">Network Hardening Analysis Lab</a>
+- <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>
