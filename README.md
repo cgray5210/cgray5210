@@ -20,7 +20,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Conducting a Security Audit                   |  <a href="https://github.com/cgray5210/Security-Audit-Lab/blob/main/README.md">Security Audit Lab</a>|
 | DNS and ICMP Traffic Analysis          | <a href="https://github.com/cgray5210/DNS-and-ICMP-Traffic-Analysis-Lab">DNS and ICMP Traffic Analysis Lab</a>|
 | Web Server Attack Analysis         | <a href="https://github.com/cgray5210/Analyze-Network-Attacks/blob/main/README.md">Web Server Attack Analysis Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network Hardening Analysis      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
