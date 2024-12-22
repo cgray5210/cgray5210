@@ -18,7 +18,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conducting a Security Audit                   |  <a href="https://github.com/cgray5210/Security-Audit-Lab/blob/main/README.md">Security Audit Lab</a>|
-| Network Traffic Analysis          | <a href="https://google.com">Detection Lab</a>|
+| DNS and ICMP Traffic Analysis          | <a href="https://github.com/cgray5210/DNS-and-ICMP-Traffic-Analysis-Lab">DNS and ICMP Traffic Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -58,5 +58,5 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 
 ## Projects
 - <a href="https://github.com/cgray5210/Security-Audit-Lab/blob/main/README.md">Security Audit Lab</a>
-- Detection Lab
+- <a href="https://github.com/cgray5210/DNS-and-ICMP-Traffic-Analysis-Lab">DNS and ICMP Traffic Analysis Lab</a>
 - SOC Automation Project
