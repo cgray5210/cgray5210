@@ -22,7 +22,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Web Server Attack Analysis         | <a href="https://github.com/cgray5210/Analyze-Network-Attacks/blob/main/README.md">Web Server Attack Analysis Lab</a>|
 | Network Hardening Analysis      | <a href="https://github.com/cgray5210/Network-Hardening-Analysis/blob/main/README.md">Network Hardening Analysis Lab</a>|
 | Knowledge of NIST CSF Concepts                  | <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Managing File Authorization in Linux | SOC Automation Lab|
 
 ## Tools
 
