@@ -23,6 +23,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Network Hardening Analysis      | <a href="https://github.com/cgray5210/Network-Hardening-Analysis/blob/main/README.md">Network Hardening Analysis Lab</a>|
 | Knowledge of NIST CSF Concepts                  | <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>|
 | Managing File Authorization in Linux | <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>|
+| Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
 
 ## Tools
 
@@ -63,3 +64,4 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 - <a href="https://github.com/cgray5210/Network-Hardening-Analysis/blob/main/README.md">Network Hardening Analysis Lab</a>
 - <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>
 - <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>
+- <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>
