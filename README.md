@@ -24,7 +24,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Knowledge of NIST CSF Concepts                  | <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>|
 | Managing File Authorization in Linux | <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>|
 | Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
-| Analyzing a vulnerable system for as small business | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
+| Analyzing a vulnerable system for a small business | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
 
 ## Tools
 
