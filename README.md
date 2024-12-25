@@ -25,7 +25,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Managing File Authorization in Linux | <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>|
 | Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
 | Analyzing a vulnerable system for a small business | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
-| Using an incident handler's journal | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
+| Using an incident handler's journal | <a href="https://github.com/cgray5210/Incident-Handlers-Journal">Incident Handler's Journal</a>|
 
 ## Tools
 
@@ -68,3 +68,4 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 - <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>
 - <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>
 - <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>
+- <a href="https://github.com/cgray5210/Incident-Handlers-Journal">Incident Handler's Journal</a>
