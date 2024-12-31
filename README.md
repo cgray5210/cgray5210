@@ -29,14 +29,30 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 
 ## Tools
 
+### General
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=C-Sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=MySQL&logoColor=white" />
+
+
+
+    
+   
+
+
+
+
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
    <img src="https://img.shields.io/badge/-TCPDump-008080?&style=for-the-badge" />
-
-
 </div>
 
 ### Endpoint
