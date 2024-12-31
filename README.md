@@ -68,4 +68,3 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 - <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>
 - <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>
 - <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>
-- <a href="https://github.com/cgray5210/Incident-Handlers-Journal">Incident Handler's Journal</a>
