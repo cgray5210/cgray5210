@@ -34,8 +34,8 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-008080?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAxYy0uNTUgMC0xIC40NS0xIDFzLjQ1IDUgMSA1IDUgMyAxIDMgMyAxIDMgMSA1cy40NSAxIDEtMWgtMWMtLjU1IDAtMS0uNDUtMS0xczAtNS0xLTVzLTUuNDUtMS0xLTEtMS0xem0wIDIuMzNjMS4xOSAwIDIuMTcgMS4wMSAyLjE3IDIuMjNzLTEuMDEgMi4xNy0yLjE3IDIuMTctMi4xNy0xLjAxLTIuMTctMi4xNyAxLjAxLTIuMTcgMi4xNy0yLjE3em0wIDEuMzRjLS41NiAwLTEuMDItLjQ2LTEuMDItMS4wMnMuNDYtMS4wMiAxLjAyLTEuMDIgMS4wMi40NiAxLjAyIDEuMDItLjQ2IDEuMDItMS4wMiAxLjAyeiIvPjwvc3ZnPg==&logoColor=white" />
+   <img src="https://img.shields.io/badge/-TCPDump-008080?&style=for-the-badge" />
+
 
 </div>
 
