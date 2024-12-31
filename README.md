@@ -38,14 +38,6 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=MySQL&logoColor=white" />
 
-
-
-    
-   
-
-
-
-
 </div>
 
 ### Network
@@ -55,26 +47,21 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
    <img src="https://img.shields.io/badge/-TCPDump-008080?&style=for-the-badge" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=Google%20Chronicle&logoColor=white" />
+
 </div>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+
+
 </div>
 
 ## Projects
