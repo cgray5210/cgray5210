@@ -26,7 +26,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
 | Analyzing a vulnerable system for a small business | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
 | Efficient Data Processing and Manipulation         | <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Secure Data Handling: String Merge Strategy</a> |
-| Object-Oriented Programming         | <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Rectangle Class in Java</a> |
+| Data Protection with Encapsulation         | <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Robust Shape Design for Secure Systems</a> |
 
 
 ## Tools
@@ -75,5 +75,5 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 - <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>
 - <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>
 - <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>
-- <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Efficient String Merging Strategy</a>
-- <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Rectangle Class in Java</a>
+- <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Secure Data Handling: String Merge Strategy</a>
+- <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Robust Shape Design for Secure Systems</a>
