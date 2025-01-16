@@ -25,7 +25,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Managing File Authorization in Linux | <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>|
 | Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
 | Analyzing a vulnerable system for a small business | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">Vulnerability Assessment Report Lab</a>|
-| Efficient String Merging Strategy         | <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Efficient String Merging Strategy</a> |
+| Efficient Data Processing and Manipulation         | <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Efficient String Merging Strategy</a> |
 | Object-Oriented Programming         | <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Rectangle Class in Java</a> |
 
 
