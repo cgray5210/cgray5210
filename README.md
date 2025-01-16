@@ -24,8 +24,7 @@ My journey in computer science has ignited a deep passion for cybersecurity. Iâ€
 | Knowledge of NIST CSF Concepts                  | <a href="https://github.com/cgray5210/Responding-to-a-Security-Incident">Responding to a Security Incident Lab</a>|
 | Managing File Authorization in Linux | <a href="https://github.com/cgray5210/Permission-Patrol-Lab/blob/main/README.md">Permission Patrol Lab</a>|
 | Investigating Login and System Vulnerabilities in SQL | <a href="https://github.com/cgray5210/Investigating-Login-and-System-Vulnerabilities-in-SQL">SQL Login Investigation Lab</a>|
-| Analyzing and Mitigating System Vulnerabilities | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">System Weakness and Threat Analysis
-</a>|
+| Analyzing and Mitigating System Vulnerabilities | <a href="https://github.com/cgray5210/Vulnerability-Assessment-Report-Lab">System Weakness and Threat Analysis</a>|
 | Efficient Data Processing and Manipulation         | <a href="https://github.com/cgray5210/Efficient-String-Merging-Strategy">Secure Data Handling: String Merge Strategy</a> |
 | Data Protection with Encapsulation         | <a href="https://github.com/cgray5210/Rectangle-Class-in-Java/blob/main/README.md">Robust Shape Design for Secure Systems</a> |
 
